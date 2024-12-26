@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+task_tracker_cli/database/db.json
 build/
 develop-eggs/
 dist/
